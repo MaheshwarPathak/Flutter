@@ -1,0 +1,23 @@
+# Flutter/Dart/Pub
+.dart_tool/
+.packages
+.pub-cache/
+pubspec.lock
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.flutter-plugins
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code
+.vscode/
+
+# Misc
+.DS_Store
+*.log
